@@ -4,7 +4,7 @@ This is a tool I built for evaluating semantic relationships between two passage
 
 Requirements:
 - Python 3.8 or later
-- openai python package (make sure to have OpenAI API key configured as an environemnt variable)
+- openai python package (make sure to have OpenAI API key configured as an environment variable)
 - tkinter python package
 
 Run gui.py and play around!
